@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL, Python, Database Management, and Data Visualization tools like Power BI and Tableau.
 - 📫 How to reach me: kodylaurence16@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact(s): I have duel-nationality family from my father's side of the family, who currently reside on the island of Saint Martin in the Caribbean.  
+- ⚡ Fun fact(s): I have duel-nationality family from my father's side of the family, who currently reside both on the island of Saint Martin in the Caribbean and in the United States.  
 
 <!---
 Kody-Laurence/Kody-Laurence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
